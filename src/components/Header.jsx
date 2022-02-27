@@ -5,7 +5,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        Keep Notes
+        Keepo Notes
       </h1>
     </header>
   );
