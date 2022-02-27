@@ -4,6 +4,11 @@
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
 }
+
+body{
+paddiing: 0;
+}
+
 html {
   font-family: "Montserrat", sans-serif;
 }
