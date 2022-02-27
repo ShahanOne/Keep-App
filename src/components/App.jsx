@@ -22,7 +22,7 @@ function App() {
   }
 
   return (
-    <div className="container-fluid">
+    <div>
       <Header />
       <CreateArea add={addNote} />
       {notes.map((newNote, index) => {
